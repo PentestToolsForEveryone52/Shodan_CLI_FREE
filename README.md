@@ -1,7 +1,8 @@
-# Shodan_CLI_FREE
-This program allows you to search in shodan for free with 2000 results and do other interesting things. 
+# 🔍 Shodan CLI Free
 
-<a href="https://asciinema.org/a/ga0EjnlhDCEQxQ95yzkOiUyLL" target="_blank"><img src="https://asciinema.org/a/ga0EjnlhDCEQxQ95yzkOiUyLL.svg" /></a>
+[![Asciinema Demo](https://asciinema.org/a/ga0EjnlhDCEQxQ95yzkOiUyLL.svg)](https://asciinema.org/a/ga0EjnlhDCEQxQ95yzkOiUyLL)
 
+> **⚠️ WARNING**  
+> !!! I'M NOT RESPONSIBLE FOR YOUR USAGE OF THIS PROGRAM !!!
 
-!!! I'M NOT RESPONSIBLE FOR YOUR USAGE OF THIS PROGRAM!!!
+This program allows you to search in Shodan for free with 2000 results and do other interesting things.
