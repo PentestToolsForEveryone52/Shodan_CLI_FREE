@@ -11,7 +11,7 @@ import nmap
 colorama.init(autoreset=True)
 
 def exit_handler(signal, frame):
-    print(colorama.Fore.RED + 'Вы нажали Ctrl+C')
+    print(colorama.Fore.RED + 'You pressed Ctrl+C')
     sys.exit(0)
 
 def vzlom_args_help():
