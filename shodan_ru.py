@@ -173,6 +173,7 @@ def main():
 
     print("Если вы не знаете как использовать эту программу, введите 'help'")
     print("Если вы хотите напрямую использовать internetdb, введите internetdb")
+    print("Для автоматического нахождения и эксплуатации уязвимых устройств введите vzlom")
 
     while True:
         query = input(colorama.Fore.GREEN + "root@Shodan4Free # ")
