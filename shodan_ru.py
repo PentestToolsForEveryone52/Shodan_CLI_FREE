@@ -15,7 +15,7 @@ def exit_handler(signal, frame):
     sys.exit(0)
 
 def vzlom_args_help():
-    print("Хотите ли вы доп. фильтры для камер GoAhead?")
+    print("Хотите ли вы доп. фильтры для камер?")
     print("Примеры:")
     print("country:RU")
     print('geo:"xx.xxxxxx,xx.xxxxxx"')
