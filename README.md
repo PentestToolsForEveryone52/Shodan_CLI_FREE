@@ -5,4 +5,4 @@
 > **⚠️ WARNING**  
 > !!! I'M NOT RESPONSIBLE FOR YOUR USAGE OF THIS PROGRAM !!!
 
-This program allows you to search in Shodan for free with 2000 results and do other interesting things.
+This program allows you to search in Shodan for free with up to 2000 results without a Shodan account or membership and do other interesting things.
