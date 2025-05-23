@@ -88,7 +88,7 @@ def goahead(arguments, filter_honeypot):
             if response.status_code == 200:
 
                 print(colorama.Fore.GREEN + "________________________________________________")
-                print(colorama.Fore.GREEN + f"IP address : {ip}")
+                print(colorama.Fore.GREEN + f"URL : http://{ip}:81/")
                 print(colorama.Fore.GREEN + f"Response : {response.text}")
                 print(colorama.Fore.GREEN + "________________________________________________")
             else:
