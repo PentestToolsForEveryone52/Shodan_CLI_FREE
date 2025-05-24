@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# Russian version
+
 import re
 import requests
 import urllib.parse
